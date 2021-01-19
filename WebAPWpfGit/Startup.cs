@@ -31,7 +31,7 @@ namespace WebAPWpfGit
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPWpfGit", Version = "v1" });
             });
-            //
+            //promjena
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
